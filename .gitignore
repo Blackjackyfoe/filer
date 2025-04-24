@@ -1,0 +1,15 @@
+.vscode/
+.fleet/
+.idea/
+
+Dockerfile.local
+Dockerfile.tests
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache
+files
+!default/files
+
+/venv/
